@@ -20,6 +20,21 @@
 .DS_Store
 *.pem
 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode
+.vscode/
+
+# General logs
+*.log
+
+# Local environment
+*.local
+
 # debug
 npm-debug.log*
 yarn-debug.log*
